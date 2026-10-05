@@ -1,0 +1,7 @@
+id = "rpg"
+name = "库巴大冒险"
+version = "1.0.0"
+sdk = 1
+kit_api = 1
+app = "rpg_app"
+milestones = ["升到 5 级", "第 1 章通关", "升到 10 级", "第 2 章通关"]
